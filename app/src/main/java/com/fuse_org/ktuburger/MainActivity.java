@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_comprehensive) {
             // Handle the camera action
+
         }
         else if (id == R.id.nav_share) {
 

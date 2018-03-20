@@ -7,7 +7,9 @@
         <item
             android:id="@+id/nav_comprehensive"
             android:icon="@drawable/ic_playlist_add_check_black_24dp"
-            android:title="Comprehensive" />
+            android:title="Comprehensive"
+
+            />
     </group>
 
     <item android:title="Communicate">
@@ -24,7 +26,6 @@
                 android:id="@+id/nav_about"
                 android:icon="@drawable/ic_info_black_24dp"
                 android:title="About" />
-
 
         </menu>
     </item>
